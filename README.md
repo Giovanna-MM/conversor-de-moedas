@@ -1,4 +1,4 @@
-# Currency Converter
+# 💲 💵 Currency Converter 💵 💲
 
 Este é um projeto simples de conversor de moedas em Java que utiliza a API ExchangeRate-API para obter as taxas de câmbio atuais. O usuário pode escolher converter entre diferentes moedas.
 
